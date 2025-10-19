@@ -1,7 +1,7 @@
 <img height="55" src="https://github.com/user-attachments/assets/928feace-3086-413a-8376-2f131c3e2f91"/>
 
 # Welcome to NovaOS
-Main Repo: https://github.com/adthoughtsglobal/Nova-OS
+Main Repo: https://github.com/runnova/NovaOS
 
 [Docs](https://novaos.gitbook.io/main) | [Discord server](https://runnova.github.io/dis) | [Homepage](https://runnova.github.io/)
 
